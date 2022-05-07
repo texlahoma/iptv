@@ -813,7 +813,7 @@ DOX音像世界,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&proto
 北京生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8#http://live.scuec.edu.cn:8080/hls/btv7hd.m3u8
 北京青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8#http://live.scuec.edu.cn:8080/hls/btv8hd.m3u8
 北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8#http://live.scuec.edu.cn:8080/hls/btv9hd.m3u8
-冬奥纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8#http://223.110.243.215/PLTV/3/224/3221227699/index.m3u8#http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8#http://live.scuec.edu.cn:8080/hls/btv11hd.m3u8
+北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8#http://223.110.243.215/PLTV/3/224/3221227699/index.m3u8#http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8#http://live.scuec.edu.cn:8080/hls/btv11hd.m3u8
 卡酷少儿,http://live.scuec.edu.cn:8080/hls/btv10hd.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225677/index.m3u8
 
 上海地方,#genre#
@@ -946,10 +946,10 @@ KBS 国际频道,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworl
 加密密码获取,https://pan.bilnn.cn/api/v3/file/sourcejump/GdOrMpSZ/wQANOxAysrdkCoke93TTWxhAnIdn5l1-5KOECGth1w4*
 
 ·港台杂类·,#genre#
-凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8#http://live.scuec.edu.cn:8080/hls/fhzw.m3u8
-凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8#http://iptv.tvfix.org/hls/fhzx.m3u8#http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8
-凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-凤凰电影台,http://live.scuec.edu.cn:8080/hls/fhdy.m3u8#http://iptv.tvfix.org/hls/fhdy.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8#http://live.scuec.edu.cn:8080/hls/fhzw.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8#http://iptv.tvfix.org/hls/fhzx.m3u8#http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8
+凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰电影,http://live.scuec.edu.cn:8080/hls/fhdy.m3u8#http://iptv.tvfix.org/hls/fhdy.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
